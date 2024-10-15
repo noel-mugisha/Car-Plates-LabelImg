@@ -1,1 +1,2 @@
-# Car_plate_yolo_format_labels
+# Car_Plates_Labels
+# This activity was done using LabelImg
